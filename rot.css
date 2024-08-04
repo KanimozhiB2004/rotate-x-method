@@ -1,0 +1,40 @@
+.rot{
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    border: 2px solid black;
+}
+.rotcls{
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    border: 2px solid black;
+    transform: rotateX(150deg);
+}
+.rot1{
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    border: 2px solid black; 
+
+}
+.rot2{
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    border: 2px solid black;
+}
+.rotcls2{
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    border: 2px solid black;
+    transform: rotateZ(80deg);
+}
+.rotcls1{
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    border: 2px solid black;
+    transform: rotateY(50deg);  
+}
